@@ -15,4 +15,9 @@ if (Date.new(today.year, 12, 20)..Date.new(today.year, 12, 31)).cover?(today)
       end
     end
   end
+
+  Plugin::GUI.ui_setting.each do |window_slug, panes|
+    window = Plugin::GUI::Window.instance(window_slug,  Environment::NAME)
+    window.set_icon File.expand_path(Skin.get('icon.png'))
+  end
 end
