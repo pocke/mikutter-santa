@@ -44,3 +44,9 @@ These codes are licensed under CC0.
 
 サンタ帽の画像は、パブリックドメインのものを使用しました。
 http://free-illustrations.gatag.net/2014/11/01/100000.html
+
+
+Blog
+-------
+
+- [vlc だけじゃない! みくったーちゃんもサンタ帽をかぶる - pockestrap](http://pocke.hatenablog.com/entry/2015/12/23/094150)
